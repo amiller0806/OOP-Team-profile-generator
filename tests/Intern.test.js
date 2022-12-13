@@ -14,8 +14,10 @@ test("Can set up school"), () => {
 // expect(e.functionName).toBe(testVal);
 
 
-// TODO: test("Can get school via _____()") (functionName), () => {
-const testVal = "Harvard";
-   const e = new Intern("Name", 100, "test@test.com", testVal);
-//    expect(e.FunctionName).toBe(testVal);
+// // TODO: 
+// test("Can get school via _____()") (functionName), () => {
+// const testVal = "Harvard";
+//    const e = new Intern("Name", 100, "test@test.com", testVal);
+// //    expect(e.FunctionName).toBe(testVal);
 
+// }
