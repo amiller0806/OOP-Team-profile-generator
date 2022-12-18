@@ -80,7 +80,7 @@ const addTeamMembers = () => {
                     addEngineer();
 
                     break;
-// TODO: Add Manager??
+
                 case "Intern":
                     hireIntern();
                     break;
