@@ -52,7 +52,8 @@ In the terminal:
 [Github Repo](https://github.com/amiller0806/OOP-Team-profile-generator)
 
 ### Video of Application
-TODO: Enter VIDEO LINK
+Video of user going through the application and the generated HTML page 
+https://drive.google.com/file/d/1ul4l5CvhFtJh6s-OJ5Qz0UQBCbuJvasy/view 
 
   ### Email
 ariel.miller555@gmail.com
